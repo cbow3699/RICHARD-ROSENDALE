@@ -1,0 +1,2 @@
+# RICHARD-ROSENDALE
+How do I generate BIP39
